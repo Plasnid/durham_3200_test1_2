@@ -44,7 +44,7 @@
  * 
  *  Your class must contain:
  *      -a value called maxPatients(3 marks)
- *          -make this a number between 5 and 20
+ *          -make this a random number between 3 and 6
  *      -an array of 6 objects representing pretend health issues(3 marks)
  *          -each object must contain
  *              -a pretend illness(you choose)
@@ -53,8 +53,8 @@
  *      -a function called seePatients(11 marks)
  *          -your function must
  *              -contain an interval that will:
- *                  -select a patient name from the names array
- *                  -select a patient illness and treatment from the health issues array
+ *                  -select a random patient name from the names array
+ *                  -select a random patient illness and treatment from the health issues array
  *                  -console using console.log and template literals make a console log with a
  *                      -first name
  *                      -last name
